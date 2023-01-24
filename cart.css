@@ -1,0 +1,48 @@
+
+
+.h6, h6 {
+    font-size: 1rem;
+    text-align: center;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #1d2124;
+    border-color: #1d2124;
+    display: flex;
+    justify-content: center;
+}
+.name{
+    margin-top: 10px;
+        border-radius: 10%;
+}
+
+.card {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid #f8f9fa;
+    border-radius: .25rem;
+}
+.border{
+    margin-top: 10px;
+
+}
+
+.btn-primary {
+    color: black;
+    background-color: #e9ecef;
+    border-color: #f8f9fa;
+    display: flex;
+    justify-content: center;
+}
+
+.border {
+    border: 1px solid #f8f9fa!important;
+}
